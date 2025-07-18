@@ -5,7 +5,7 @@ excerpt: >-
   running in a jiffy!
 hidden: false
 ---
-# This change should sync to external repo
+# This change should sync from internal to readme
 
 Welcome to ReadMe! :owlbert:
 
